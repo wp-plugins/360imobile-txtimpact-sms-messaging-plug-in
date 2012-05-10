@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== 360iMobile TXTImpact SMS Notifications & Mass text messaging plugin ===
 Contributors: TXTImpact
 Donate link: 
 Tags: mobile, sms notification, mass texting, group texting, plug-in, alert
