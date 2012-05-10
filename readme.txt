@@ -62,10 +62,14 @@ Yes, the plug-in is integrated with TXTImpact sms marketing platform to receive 
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
+1. How the SMS Notification plug-in signup widget appears in your sidebar.
 
-2. This is the second screen shot
+2. The settings for TXTImpact account settings, callback url etc
+
+3. How to send SMS from your admin panel
+
+4. SMS subscribers management screen
+
 
 == Changelog ==
 
