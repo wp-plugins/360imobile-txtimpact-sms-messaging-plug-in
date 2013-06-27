@@ -40,7 +40,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 function txtimpact_send_sms_to_subscribers($message)
 {
 $return_value = new stdClass();
-$patrial_count = 40;
+$patrial_count = 5000;
 $page = 1;
 $txtimpact_options = get_option( 'txtimpact' );
 if( !isset($txtimpact_options['txtimpact_user']) || !isset($txtimpact_options['txtimpact_password']) )
