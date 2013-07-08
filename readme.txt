@@ -1,19 +1,19 @@
-=== 360iMobile TXTImpact SMS Notifications & Mass text messaging plugin ===
+===TXTImpact Mass text messaging & SMS Marketing plugin ===
 Contributors: TXTImpact
 Donate link: 
-Tags: mobile, sms notification, mass texting, group texting, plug-in, alert
+Tags: sms marketing, mass text messaging, mobile, sms notification, mass texting, group texting, plug-in, alert
 Requires at least: 1.0.0
 Tested up to: 1.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The 360iMobile TXTImpact SMS Notifications & Mass text messaging plugin allows blog or website admin to send and receive text message from wordpress blogs.
+The TXTImpact Mass text messaging & SMS Marketing plugin allows blog or website admin to send text message and receive text replies from wordpress blogs.
 
 
 == Description ==
 
-The 360iMobile TXTImpact SMS Notifications & Mass text messaging plugin allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact sms marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code.
+The TXTImpact Mass text messaging & SMS Marketing plugin allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact sms marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code.
 You can also send them text messages from admin panel whenever you like.
 
 
@@ -32,15 +32,15 @@ You can also send them text messages from admin panel whenever you like.
 
 = How do I get started? = 
 
-You will need a TXTImpact account to be able to send automatic or manual sms alerts. Visit http://www.txtimpact.com/wordpress-plugin.asp for more information.
+You will need a TXTImpact account to be able to send automatic or manual sms alerts. Visit http://www.txtimpact.com/wordpress-plugin/ for more information.
 
 = How much does TXTImpact service cost? =
 
-You can find TXTImpact SMS gateway pricing information at http://www.txtimpact.com/sms-gateway-pricing_enter.asp
+You can find TXTImpact SMS gateway pricing information at http://www.txtimpact.com/sms-gateway-pricing/
 
 = What countries is TXTImpact supports? =
 
-TXTImpact provide service The United States, Canada, UK and to many other countries. For Global coverage, visit http://www.txtimpact.com/international.asp
+TXTImpact provide service The United States, Canada, UK and to many other countries. For Global coverage, visit http://www.txtimpact.com/international/
 
 = How to enable new post sms notification? =
 
