@@ -2,9 +2,9 @@
 Contributors: TXTImpact
 Donate link: 
 Tags: sms marketing, mass text messaging, mobile, sms notification, mass texting, group texting, plug-in, alert
-Requires at least: 1.0.0
-Tested up to: 1.0
-Stable tag: 1.0
+Requires at least: 2.0.2
+Tested up to: 3.5.2
+Stable tag: 1.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
