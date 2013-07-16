@@ -1,4 +1,4 @@
-===TXTImpact Mass text messaging & SMS Marketing plugin ===
+===Mass text messaging & SMS Marketing through TXTImpact plugin  ===
 Contributors: TXTImpact
 Donate link: 
 Tags: sms marketing, mass text messaging, mobile, sms notification, mass texting, group texting, plug-in, alert
@@ -8,12 +8,12 @@ Stable tag: 1.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The TXTImpact Mass text messaging & SMS Marketing plugin allows blog or website admin to send text message and receive text replies from wordpress blogs.
+Mass text messaging & SMS Marketing through TXTImpact plugin  allows blog or website admin to send text message and receive text replies from wordpress blogs.
 
 
 == Description ==
 
-The TXTImpact Mass text messaging & SMS Marketing plugin allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact sms marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code.
+Mass text messaging & SMS Marketing plugin through TXTImpact allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact sms marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code.
 You can also send them text messages from admin panel whenever you like.
 
 
