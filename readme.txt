@@ -8,14 +8,17 @@ Stable tag: 1.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-<a href="http://www.txtimpact.com/mass-text-messaging/">Mass text messaging </a> & <a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing</a> through <a href="http://www.txtimpact.com/">TXTImpact</a> plugin  allows blog or website admin to send text message and receive text replies from wordpress blogs.
+Mass text messaging & SMS Marketing through TXTImpact plugin  allows blog or website admin to send text message and receive text replies from wordpress blogs.
 
 
 == Description ==
 
-<a href="http://www.txtimpact.com/mass-text-messaging/">Mass text messaging<a/> & SMS Marketing plugin through TXTImpact allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact sms marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code.
+<a href="http://www.txtimpact.com/mass-text-messaging/">Mass text messaging </a> & <a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing </a> plugin through TXTImpact allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact sms marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code.
 You can also send them text messages from admin panel whenever you like.
 
+<b>More Information</b>
+
+Visit the <a href="http://www.txtimpact.com/">TXTImpact</a> for more information.
 
 == Installation ==
 
@@ -56,7 +59,7 @@ Yes, subscriber can reply to the text messages, you can see all received text me
 
 = Can someone subscribe to the mobile list by sending text message? =
 
-Yes, the plug-in is integrated with TXTImpact sms marketing platform to receive text messages from users. You can setup a keyword on TXTImpact platform and configure your blog sms Callback URL to allow users to subscribe to your mobile list.
+Yes, the plug-in is integrated with <a href="http://www.txtimpact.com/sms-marketing/">TXTImpact sms marketing platform </a> to receive text messages from users. You can setup a keyword on TXTImpact platform and configure your blog sms Callback URL to allow users to subscribe to your mobile list.
 
 
 
