@@ -8,7 +8,7 @@ Stable tag: 1.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Mass text messaging & SMS Marketing through TXTImpact plugin  allows blog or website admin to send text message and receive text replies from wordpress blogs.
+<a href="http://www.txtimpact.com/mass-text-messaging/">Mass text messaging </a> & <a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing</a> through <a href="http://www.txtimpact.com/">TXTImpact</a> plugin  allows blog or website admin to send text message and receive text replies from wordpress blogs.
 
 
 == Description ==
