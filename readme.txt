@@ -1,4 +1,4 @@
-===Mass text messaging & SMS Marketing through TXTImpact plugin  ===
+===Mass text messaging & SMS Marketing through TXTImpact.com plugin  ===
 Contributors: TXTImpact
 Donate link: 
 Tags: sms marketing, mass text messaging, mobile, sms notification, mass texting, group texting, plug-in, alert
@@ -8,12 +8,12 @@ Stable tag: 1.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Mass text messaging & SMS Marketing through TXTImpact plugin  allows blog or website admin to send text message and receive text replies from wordpress blogs.
+Mass text messaging & SMS Marketing through TXTImpact.com plugin  allows blog or website admin to send text message and receive text replies from wordpress blogs.
 
 
 == Description ==
 
-<a href="http://www.txtimpact.com/mass-text-messaging/">Mass text messaging </a> & <a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing </a> plugin through TXTImpact allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact sms marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code.
+<a href="http://www.txtimpact.com/mass-text-messaging/">Mass text messaging </a> & <a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing </a> plugin through TXTImpact.com allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact.com sms marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code.
 You can also send them text messages from admin panel whenever you like.
 
 <b>More Information</b>
@@ -35,19 +35,19 @@ Visit the <a href="http://www.txtimpact.com/">TXTImpact</a> for more information
 
 = How do I get started? = 
 
-You will need a TXTImpact account to be able to send automatic or manual sms alerts. Visit http://www.txtimpact.com/wordpress-plugin/ for more information.
+You will need a TXTImpact.com account to be able to send automatic or manual sms alerts. Visit http://www.txtimpact.com/wordpress-plugin/ for more information.
 
-= How much does TXTImpact service cost? =
+= How much does TXTImpact.com service cost? =
 
-You can find TXTImpact SMS gateway pricing information at http://www.txtimpact.com/sms-gateway-pricing/
+You can find TXTImpact.com SMS gateway pricing information at http://www.txtimpact.com/sms-gateway-pricing/
 
-= What countries is TXTImpact supports? =
+= What countries is TXTImpact.com supports? =
 
 TXTImpact provide service The United States, Canada, UK and to many other countries. For Global coverage, visit http://www.txtimpact.com/international/
 
 = How to enable new post sms notification? =
 
-Go to TXTImpact SMS tab and click on Settings page. Check the "Notify SMS subscribers when a new post is published" option.
+Go to TXTImpact.com SMS tab and click on Settings page. Check the "Notify SMS subscribers when a new post is published" option.
 
 = How to send manually a SMS to all subscribers? =
 
