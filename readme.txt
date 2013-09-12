@@ -18,7 +18,7 @@ You can also send them text messages from admin panel whenever you like.
 
 <b>More Information</b>
 
-Visit the <a href="http://www.txtimpact.com/">TXTImpact</a> for more information.
+Visit the http://www.txtimpact.com/sms-marketing/ for more information.
 
 == Installation ==
 
