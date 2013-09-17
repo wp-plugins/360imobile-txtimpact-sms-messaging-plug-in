@@ -13,12 +13,13 @@ Mass text messaging & SMS Marketing through TXTImpact.com plugin  allows blog or
 
 == Description ==
 
-<a href="http://www.txtimpact.com/mass-text-messaging/">Mass text messaging </a> & <a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing </a> plugin through TXTImpact.com allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact.com sms marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code.
-You can also send them text messages from admin panel whenever you like.
+<a href="http://www.txtimpact.com/mass-text-messaging/">Mass text messaging </a> & <a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing </a> plugin through TXTImpact.com allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact.com sms marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code. You can also send them text messages from admin panel whenever you like.
 
 <b>More Information</b>
 
 Visit the http://www.txtimpact.com/sms-marketing/ for more information.
+
+TXTImpact also offers text to email and email to text service to send text message through email. Visit the http://www.txtimpact.com/email2sms/ for more information.
 
 == Installation ==
 
