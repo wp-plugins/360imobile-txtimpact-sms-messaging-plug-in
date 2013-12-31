@@ -1,7 +1,7 @@
 ===SMS Marketing & Mass text messaging through TXTImpact.com plugin  ===
 Contributors: TXTImpact
 Donate link: 
-Tags: sms marketing, mass text messaging, mobile, sms notification, mass texting, group texting, plug-in, alert
+Tags: sms marketing, mass text messaging, text message marketing, mobile, sms notification, mass texting, group texting, plug-in, alert
 Requires at least: 2.0.2
 Tested up to: 3.5.2
 Stable tag: 1.5.0
@@ -40,7 +40,7 @@ You will need a TXTImpact.com account to be able to send automatic or manual sms
 
 = How much does TXTImpact.com service cost? =
 
-You can find TXTImpact.com SMS gateway pricing information at http://www.txtimpact.com/sms-gateway-pricing/
+You can find TXTImpact.com SMS gateway and text message marketing pricing information at http://www.txtimpact.com/sms-gateway-pricing/
 
 = What countries is TXTImpact.com supports? =
 
@@ -60,7 +60,7 @@ Yes, subscriber can reply to the text messages, you can see all received text me
 
 = Can someone subscribe to the mobile list by sending text message? =
 
-Yes, the plug-in is integrated with <a href="http://www.txtimpact.com/sms-marketing/">TXTImpact sms marketing platform </a> to receive text messages from users. You can setup a keyword on TXTImpact platform and configure your blog sms Callback URL to allow users to subscribe to your mobile list.
+Yes, the plug-in is integrated with TXTImpact <a href="http://www.txtimpact.com/sms-marketing/">sms marketing platform </a> to receive text messages from users. You can setup a keyword on TXTImpact platform and configure your blog sms Callback URL to allow users to subscribe to your mobile list.
 
 
 
