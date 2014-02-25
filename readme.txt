@@ -1,4 +1,4 @@
-===SMS Marketing & Mass text messaging through TXTImpact.com plugin  ===
+===SMS Marketing and Mass text messaging through TXTImpact.com plugin  ===
 Contributors: TXTImpact
 Donate link: 
 Tags: sms marketing, mass text messaging, text message marketing, mobile, sms notification, mass texting, group texting, plug-in, alert
@@ -8,18 +8,18 @@ Stable tag: 1.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-SMS Marketing & Mass text messaging through TXTImpact.com plugin allows blog or website admin to send text message and receive text replies from wordpress blogs.
+SMS Marketing and Mass text messaging through TXTImpact.com plugin allows to collect mobile numbers from blog or website and send text message and receive text replies from wordpress blogs.
 
 
 == Description ==
 
-<a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing </a> & <a href="http://www.txtimpact.com/mass-text-messaging/">Mass text messaging </a> plugin through TXTImpact.com allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact.com sms marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code. You can also send them text messages from admin panel whenever you like.
+<a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing </a> and <a href="http://www.txtimpact.com/mass-text-messaging/">Mass text messaging </a> plugin through TXTImpact.com allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact.com sms marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code. You can also send them text messages from admin panel whenever you like.
 
 <b>More Information</b>
 
-Visit the http://www.txtimpact.com/sms-marketing/ for more information.
+Visit the <a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing </a> for more information.
 
-TXTImpact also offers text to email and email to text service to send text message through email. Visit the http://www.txtimpact.com/email2sms/ for more information.
+TXTImpact also offers text to email and <a href="http://www.txtimpact.com/email2sms/"> email to text service </a> to send text message through email. Visit the  for more information.
 
 == Installation ==
 
