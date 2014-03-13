@@ -1,7 +1,7 @@
-===SMS Marketing and Text message service for business through TXTImpact.com plugin  ===
+===SMS Marketing and Text message marketing for business through TXTImpact.com plugin  ===
 Contributors: TXTImpact
 Donate link: 
-Tags: sms marketing, text message service, text message marketing, mobile, sms notification, mass texting, group texting, plug-in, alert
+Tags: sms marketing, text message marketing, text alert,mobile marketing, text message service, sms notification, mass texting, group texting
 Requires at least: 2.0.2
 Tested up to: 3.5.2
 Stable tag: 1.5.0
@@ -13,13 +13,13 @@ SMS Marketing, Text message marketing and text message service through TXTImpact
 
 == Description ==
 
-<a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing </a> and <a href="http://www.txtimpact.com/text-message-service/">Text message service </a> plugin through TXTImpact.com allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact.com sms marketing and text message marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code. You can also send them text messages from admin panel whenever you like.
+<a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing </a> and <a href="http://www.txtimpact.com/smstext-autoresponder/">Text message marketing </a> plugin through TXTImpact.com allows blog's visitors to sign up to receive text message notifications whenever a new post is added. The plug-in integrates with TXTImpact.com sms marketing and text message marketing platform and allow users to signup to your mobile list via text message using a keyword on a short code. You can also send them text messages from admin panel whenever you like.
 
 <b>More Information</b>
 
 Visit the <a href="http://www.txtimpact.com/sms-marketing/">SMS Marketing </a> for more information.
 
-TXTImpact also offers text to email and <a href="http://www.txtimpact.com/email2sms/"> send text message from email </a> using email to text message service.
+TXTImpact also offers <a href="http://www.txtimpact.com/email2sms/">email to text message service </a> allows business to send text message from email.
 
 == Installation ==
 
